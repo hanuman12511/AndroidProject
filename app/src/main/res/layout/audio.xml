@@ -16,7 +16,7 @@
             android:orientation="vertical">
 
             <TextView
-                android:id="@+id/title"
+                android:id="@+id/title1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Sound play New"
@@ -58,7 +58,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"/>
             <TextView
-                android:id="@+id/title"
+                android:id="@+id/title11"
                 android:layout_weight=".5"
                 android:layout_width=".0dp"
                 android:layout_height="wrap_content"
